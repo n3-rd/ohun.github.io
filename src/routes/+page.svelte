@@ -114,7 +114,7 @@
 		<section class="mt-24">
 			<h2 class="text-xl font-semibold text-white/90">What it does</h2>
 			<p class="mt-2 text-white/60 leading-relaxed">
-				Ohun sits in your menu bar or system tray and shows synced lyrics for the track your music player is playing. No account, no login. It talks to your player via standard APIs (e.g. MPRIS on Linux, media keys on macOS and Windows) and pulls lyrics so you can follow along in real time.
+				Ohun is a desktop app that shows synced lyrics for the track your music player is playing. No account, no login. It talks to your player via standard APIs (e.g. MPRIS on Linux, media keys on macOS and Windows) and pulls lyrics so you can follow along in real time.
 			</p>
 			<ul class="mt-4 space-y-2 text-white/60">
 				<li class="flex items-center gap-2">
